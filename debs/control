@@ -1,9 +1,0 @@
-Package: com.hackyouriphone.icy
-Name: Icy
-Version: 1.4.3
-Architecture: iphoneos-arm
-Author: Infini-dev <repo@hackyouriphone.org>
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=icy
-Section: HYI - Applications
-Description: Icy, install with joy
-Maintainer: iAjeje <repo@hackyouriphone.org>
