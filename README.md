@@ -16,7 +16,7 @@ there you can find
   the predecessor of zebra
 - icy
 
-a legacy package manager, but still faster than cydia
+  a legacy package manager, but still faster than cydia
 - rock
 
   a legacy package manager, absorbed by cydia
