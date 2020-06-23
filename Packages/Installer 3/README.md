@@ -1,3 +1,8 @@
-Name: Installer 3
+## Name: 
 
-Source: https://github.com/AppTapp/Installer-3
+Installer 3
+
+## Source: 
+
+https://github.com/AppTapp/Installer-3
+https://apptapp.me/installer3/
